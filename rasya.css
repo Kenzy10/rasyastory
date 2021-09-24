@@ -1,0 +1,130 @@
+#runningtext {
+    width: 100%;
+    height: 35px;
+    max-height: 50px;
+    background-color: lightblue;
+    border: solid 4px black;
+    
+
+}
+#runningtext{
+ font: 35px;
+}
+
+
+
+.rasya-1{
+
+}
+
+body{background-color: palevioletred;}
+h1 {background-color: snow;
+border: 5px solid black }
+th {background-color: skyblue;}
+td {background-color: yellow;}
+td {background-color: yellow;}
+ol {background-color: wheat;
+border: solid 4px black;}
+ul-1 {background-color: springgreen;
+ border: 5px solid black;}
+body {background-image: url(C:\Users\Bambang Widjanarko\Downloads\th.jpg);}
+
+:root {
+    --warnabiru: blue;
+    --warnamerahmuda: pink;
+    --warnakuninghijau: yellow;
+    --warnaabu: grey;
+    --width: 35%;
+    --height: auto;
+    --border: solid 4px black; 
+
+
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200&display=swap');
+
+        * {
+            font-family: 'Roboto Mono', monospace;
+        }
+    
+.rasya-1{
+background-color: var(--warnabiru);
+width:var(--width);
+height:var(--height);
+border: var(--border);
+
+}
+.rasya-2{
+    background-color: var(--warnamerahmuda);
+    width:var(--width);
+height:var(--height);
+border: var(--border);
+}
+
+.rasya-3 {
+    background-color: var(--warnakuninghijau);
+    width:var(--width);
+height:var(--height);
+border: var(--border);
+}
+.rasya-4{
+    background-color: var(--warnaabu);
+    width:var(--width);
+height:var(--height);
+border: var(--border);
+}
+
+
+ 
+
+  ul { 
+    width: 45%; 
+    height: 260px;
+    background-color: springgreen;
+ border: 5px solid black;}
+ #asya-1 { 
+    width: 19%;
+    height: 35px;
+ }
+
+ 
+
+ #aca-1{
+    width: 45%;
+    height: 35px;
+ }
+ #diba{
+    width: 25%;
+    height: 35px;
+ }
+ #aya{
+    width: 25%;
+    height: 35px;
+ }
+ #cantik{
+    width: 25%;
+    height: 35px;
+ }
+ 
+ #src{
+     border-radius: 50%;
+     width: 20%;
+     height: auto;
+     margin: 100px 100px 100px 505px;
+     line-height: 50px;
+
+ }
+ #aulia{
+    width: 25%;
+    height: 35px
+ }
+ .mantan{
+     border: solid 4px black;
+     background-color: blanchedalmond;
+     width: 25%;
+     height: 100px;
+
+ }
+#fara{
+    border: solid 4px black;
+     background-color: blanchedalmond;
+}
